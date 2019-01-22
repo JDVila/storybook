@@ -1,7 +1,7 @@
 {"planets":[
     {"name": "Mercury",
     "number": 1,
-    "image": "https://www.go-astronomy.com/images/planets/planet-mercury.jpg"}
+    "image": "https://www.go-astronomy.com/images/planets/planet-mercury.jpg"},
     {"name": "Venus",
     "number": 2,
     "image": "http://blogs.scientificamerican.com/guest-blog/files/2012/06/Venus.jpg"},

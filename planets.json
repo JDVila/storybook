@@ -1,4 +1,3 @@
-Content-type: text/json; charset=utf-8
 {
 "planets":[
     {"name": "Mercury",

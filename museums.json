@@ -1,0 +1,60 @@
+{
+  "museums": [
+    {
+      "name": "American Museum of Natural History",
+      "address": "Central Park West 79th St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10024"
+    },
+    {
+      "name": "Metropolitan Museum of Art",
+      "address": "1000 5th Ave",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10028"
+    },
+    {
+      "name": "Museum of the Moving Image",
+      "address": "36-01 35 Avenue",
+      "city": "Astoria",
+      "state": "NY",
+      "zip": "11106"
+    },
+    {
+      "name": "Rubin Museum of Art",
+      "address": "150 W 17th St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011"
+    },
+    {
+      "name": "National Museum of the American Indian",
+      "address": "1 Bowling Green",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10004"
+    },
+    {
+      "name": "Museum of the American Gangster",
+      "address": "80 St Marks Pl",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003"
+    },
+    {
+      "name": "Museum of the City of New York",
+      "address": "1220 Fifth Avenue",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10029"
+    },
+    {
+      "name": "National Museum of Mathematics",
+      "address": "11 East 26th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010"
+    }
+  ]
+}

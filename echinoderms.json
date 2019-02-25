@@ -1,4 +1,4 @@
-{"status":"ok",
+{"status": "ok",
   "message":[
     {"animal": "Sand Dollar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Clypeaster_reticulatus.jpg/320px-Clypeaster_reticulatus.jpg",
@@ -23,6 +23,6 @@
     "wiki": "https://en.wikipedia.org/wiki/Crinoid"},
     {"animal": "Sea Lilly",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Metacrinus_rotundus_by_OpenCage.JPG/480px-Metacrinus_rotundus_by_OpenCage.JPG",
-    "wiki": "https://en.wikipedia.org/wiki/Crinoid"},
+    "wiki": "https://en.wikipedia.org/wiki/Crinoid"}
   ]
 }

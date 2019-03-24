@@ -1,0 +1,17 @@
+{ "staff": [
+    { "name":"Jose V.",
+      "role":"Instructor"},
+    { "name":"Rusi",
+      "role":"Instructor"}, 
+    { "name":"Bryant",
+      "role":"Instructor"},
+    { "name":"Victoria",
+      "role":"TA"},
+    { "name":"Darnell",
+      "role":"TA"},
+    { "name":"Jose O.G.",
+      "role":"TA"},
+    { "name":"Shannon",
+      "role":"PM"}
+  ]
+}

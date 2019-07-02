@@ -56,3 +56,39 @@ This README.MD file is a file for the current repository. Is a story consisting 
 
 `System.out.println("Hello World");`
 'System.out.println("Hello World");'
+
+```java
+public Dialog showEmptyListDialog(final int shouldShowInterstitial) {
+        AlertDialog.Builder builder = new AlertDialog.Builder(this);
+        // TODO: Move strings to xml string resources
+        builder.setTitle("All Facts Reviewed!");
+        builder.setMessage("Review List is Empty - Do you want to refresh the deck?");
+        builder.setPositiveButton("REFRESH", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int id) {
+                SharedPreferences.Editor editor = flipcardPrefs.edit();
+                editor.putBoolean(SHOW_EMPTY_LIST_DIALOG_KEY, false);
+                editor.commit();
+                if (shouldShowInterstitial == YES_INTERSTITIAL) {
+                    initiateInterstitial();
+                }
+                populateList();
+            }
+        });
+        builder.setNegativeButton("Leave Empty", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int id) {
+                SharedPreferences.Editor editor = flipcardPrefs.edit();
+                editor.putBoolean(SHOW_EMPTY_LIST_DIALOG_KEY, true);
+                editor.commit();
+                if (shouldShowInterstitial == YES_INTERSTITIAL) {
+                    initiateInterstitial();
+                } else {
+                    finish();
+                }
+            }
+        });
+        // TODO: Fix issue where dialog is dismissed, but sharedprefs are not updated.
+        return builder.create();
+    }
+```

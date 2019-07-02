@@ -94,5 +94,5 @@ public Dialog showEmptyListDialog(final int shouldShowInterstitial) {
 ```
 
 Count|Name
-----|----
+---:|---:
 1|Jose

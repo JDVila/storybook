@@ -50,6 +50,6 @@ www.google.com
 
 ![Awesome Cat Burrito Photo: Purrito](https://i.ytimg.com/vi/Ep3jK1bZrB8/maxresdefault.jpg)
 
-<link>https://i.ytimg.com/vi/Ep3jK1bZrB8/maxresdefault.jpg</link>
+<img src="https://i.ytimg.com/vi/Ep3jK1bZrB8/maxresdefault.jpg" width="300">
 
 This README.MD file is a file for the current repository. Is a story consisting only of hipster ipsum text.

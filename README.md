@@ -21,8 +21,11 @@ __This is also Italisized__
 ***This is both both and Italisized***
 ___This is both both and Italisized___
 
-***This is italisized, but this is **bold and italisized***.
+*This is italisized, but this is **bold and italisized***.
 
-
+This is an unordered list:
+* Apples
+* Oranges
+* Pears
 
 This README.MD file is a file for the current repository. Is a story consisting only of hipster ipsum text.

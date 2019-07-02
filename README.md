@@ -44,4 +44,10 @@ This is an ordered list:
 
 \*Coughing Intensifies\*
 
+www.google.com
+
+[Google Website](www.google.com)
+
+![Awesome Cat Burrito Photo: Purrito](https://i.ytimg.com/vi/Ep3jK1bZrB8/maxresdefault.jpg)
+
 This README.MD file is a file for the current repository. Is a story consisting only of hipster ipsum text.

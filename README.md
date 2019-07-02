@@ -33,4 +33,10 @@ This is an ordered list:
 1. Dogs
 1. Koalas
 
+<ul>
+  <li>One</li>
+  <li>Two</li>
+  <li>Three</li>
+</ul>
+
 This README.MD file is a file for the current repository. Is a story consisting only of hipster ipsum text.

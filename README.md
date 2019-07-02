@@ -28,4 +28,9 @@ This is an unordered list:
 * Oranges
 * Pears
 
+This is an ordered list:
+1. Cats
+1. Dogs
+1. Koalas
+
 This README.MD file is a file for the current repository. Is a story consisting only of hipster ipsum text.

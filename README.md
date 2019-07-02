@@ -100,3 +100,5 @@ Count|Name
 - [X] Covered Headings
 - [X] Covered Tables
 - [ ] Covered Emojis
+
+![Scene from a bad movie](http://66.media.tumblr.com/025c3551a142bac4fbdf6dbf8b3cbca6/tumblr_ncq7dgne9Z1turpgro2_500.gif)

@@ -40,4 +40,8 @@ This is an ordered list:
   <li>Three</li>
 </ul>
 
+> This is a blockquote.
+
+\*Coughing Intensifies\*
+
 This README.MD file is a file for the current repository. Is a story consisting only of hipster ipsum text.

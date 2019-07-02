@@ -96,3 +96,7 @@ public Dialog showEmptyListDialog(final int shouldShowInterstitial) {
 Count|Name
 ---:|---:
 1|Jose
+
+- [X] Covered Headings
+- [X] Covered Tables
+- [ ] Covered Emojis
